@@ -5,19 +5,7 @@ function saveFile(filename,content)
 end
 
 local str = ""
-for k,v in pairs(_G) do
-	if type(v) == "function" then
-		print(k)
-		str = str .. "_G[" .. k .. "]"  .. "\n"
-	elseif type(v) == "table" then
-		for key,value in pairs(v) do
-			if type(value) == "function" then
-				str = str  .. k .. "[" .. key .. "]" .. "\n"
-			end
-		end
-	end
-end
-saveFile("function.txt",str)
-print(type(pairs) == "function")
+--~ saveFile("function.txt",str)
+os.execute("ping 127.0.0.1 -t 3")
 
 
