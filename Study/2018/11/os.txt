@@ -1,0 +1,11 @@
+date	function: 00CC3EF0
+exit	function: 00CC46E0
+clock	function: 00CC3E70
+time	function: 00CC4350
+rename	function: 00CC3C00
+getenv	function: 00CC3DF0
+remove	function: 00CC3B50
+tmpname	function: 00CC3CD0
+setlocale	function: 00CC4620
+difftime	function: 00CC4570
+execute	function: 00CC3A90

@@ -1,0 +1,27 @@
+ult	function: 00CCD380
+random	function: 00CCD910
+floor	function: 00CCCE30
+tointeger	function: 00CCCD30
+exp	function: 00CCD5C0
+ceil	function: 00CCCF00
+atan	function: 00CCCC70
+deg	function: 00CCD630
+tan	function: 00CCCB20
+mininteger	-9223372036854775808
+maxinteger	9223372036854775807
+abs	function: 00CCC950
+max	function: 00CCD830
+pi	3.1415926535898
+type	function: 00CCDBF0
+sqrt	function: 00CCD310
+sin	function: 00CCCA40
+randomseed	function: 00CCDB50
+rad	function: 00CCD6C0
+fmod	function: 00CCCFD0
+huge	inf
+min	function: 00CCD750
+modf	function: 00CCD160
+cos	function: 00CCCAB0
+asin	function: 00CCCB90
+acos	function: 00CCCC00
+log	function: 00CCD440

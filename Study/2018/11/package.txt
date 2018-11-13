@@ -1,0 +1,13 @@
+config	\
+;
+?
+!
+-
+
+loaded	table: 0141E448
+path	D:\Lua\lua\lua\?.lua;D:\Lua\lua\lua\?\init.lua;D:\Lua\lua\?.lua;D:\Lua\lua\?\init.lua;D:\Lua\lua\..\share\lua\5.3\?.lua;D:\Lua\lua\..\share\lua\5.3\?\init.lua;.\?.lua;.\?\init.lua
+searchers	table: 0141E9C0
+preload	table: 0141EC40
+loadlib	function: 00CCFF90
+cpath	D:\Lua\lua\?.dll;D:\Lua\lua\..\lib\lua\5.3\?.dll;D:\Lua\lua\loadall.dll;.\?.dll
+searchpath	function: 00CD00A0

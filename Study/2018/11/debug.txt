@@ -1,0 +1,16 @@
+traceback	function: 00CCF3E0
+setupvalue	function: 00CCEB00
+getinfo	function: 00CCE190
+upvalueid	function: 00CCEB70
+setmetatable	function: 00CCDFD0
+setlocal	function: 00CCE8B0
+gethook	function: 00CCEFA0
+sethook	function: 00CCECF0
+getuservalue	function: 00CCE080
+getupvalue	function: 00CCEAB0
+upvaluejoin	function: 00CCEC00
+debug	function: 00CCF1A0
+setuservalue	function: 00CCE100
+getlocal	function: 00CCE650
+getmetatable	function: 00CCDF50
+getregistry	function: 00CCDEF0

@@ -1,0 +1,14 @@
+lines	function: 00CC16F0
+stderr	file (626E3AA0)
+stdout	file (626E3A68)
+stdin	file (626E3A30)
+write	function: 00CC1920
+read	function: 00CC1850
+popen	function: 00CC1410
+input	function: 00CC15C0
+tmpfile	function: 00CC1510
+flush	function: 00CC1C80
+output	function: 00CC1620
+type	function: 00CC0FD0
+open	function: 00CC1250
+close	function: 00CC1140

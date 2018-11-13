@@ -1,0 +1,17 @@
+format	function: 00CC5F90
+pack	function: 00CC6B70
+rep	function: 00CC5C60
+gmatch	function: 00CC50A0
+find	function: 00CC5000
+byte	function: 00CC6600
+char	function: 00CC6880
+dump	function: 00CC6A20
+sub	function: 00CC5680
+unpack	function: 00CC7750
+packsize	function: 00CC7570
+upper	function: 00CC5B00
+gsub	function: 00CC5200
+len	function: 00CC55C0
+lower	function: 00CC59A0
+match	function: 00CC5050
+reverse	function: 00CC5850
