@@ -58,7 +58,7 @@
             {
                "id" : "CheckBoxGroup1",
                "list" : "钻石,苹果,包子",
-               "select" : "1@2",
+               "select" : "0@2",
                "size" : "30",
                "type" : "CheckBoxGroup",
                "orientation" : "horizontal",
