@@ -17,3 +17,12 @@ function isFindCoordinate(selectIndex)
 		return false	
 	end
 end
+
+function ClickOn(delay,x,y)
+	if x > -1 then
+		mSleep(delay);
+		touchDown(1,x,y);
+		mSleep(delay)
+		touchUp(1,x,y);
+	end
+end
